@@ -58,7 +58,7 @@ var shownGround = false;
 
 var spawningY = 0;
 
-//collisionCatagories i.e what it is
+//collisionCat agories i.e what it is
 
 
 var WHEEL_CATEGORY = 0x0001;
